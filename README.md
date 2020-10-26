@@ -6,7 +6,11 @@
 - Pipenv
 - opencv-python
 
-## Gettings Started
+## オリジナル画像
+
+![オリジナル画像](images/cat-original.jpg)
+
+## Getting Started
 
 ```sh
 pipenv install
